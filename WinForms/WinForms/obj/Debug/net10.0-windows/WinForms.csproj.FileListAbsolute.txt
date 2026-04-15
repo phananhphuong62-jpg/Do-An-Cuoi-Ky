@@ -1,0 +1,7 @@
+D:\31251022345-Phan Ánh Phương\WinForms\WinForms\obj\Debug\net10.0-windows\HtmlParserWinForms.Form1.resources
+D:\31251022345-Phan Ánh Phương\WinForms\WinForms\obj\Debug\net10.0-windows\WinForms.Properties.Resources.resources
+D:\31251022345-Phan Ánh Phương\WinForms\WinForms\obj\Debug\net10.0-windows\WinForms.csproj.GenerateResource.cache
+D:\31251022345-Phan Ánh Phương\WinForms\WinForms\obj\Debug\net10.0-windows\WinForms.GeneratedMSBuildEditorConfig.editorconfig
+D:\31251022345-Phan Ánh Phương\WinForms\WinForms\obj\Debug\net10.0-windows\WinForms.AssemblyInfoInputs.cache
+D:\31251022345-Phan Ánh Phương\WinForms\WinForms\obj\Debug\net10.0-windows\WinForms.AssemblyInfo.cs
+D:\31251022345-Phan Ánh Phương\WinForms\WinForms\obj\Debug\net10.0-windows\WinForms.csproj.CoreCompileInputs.cache
